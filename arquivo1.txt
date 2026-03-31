@@ -1,4 +1,3 @@
-Faculdade Uniesp
+Faculdade Uniesp 
 Curso: Ciências da Computação
-Kawã Henry Marinho Ramalho
-Tópicos Essenciais para Programação
+Respondendo a lista de exercício do GitHub
